@@ -4,7 +4,7 @@ This is my personal side project to to develop a program that facilitates commun
 
 
 # How to use
-Press "E" to start record it will end when you stop talking. Then wait a while it will generate and speech out. 
+Press "Z" to start record it will end when you stop talking. Then wait a while it will generate and speech out. 
 
 
 # Credits
